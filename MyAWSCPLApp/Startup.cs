@@ -21,6 +21,7 @@ namespace MyAWSCPLApp
             Configuration = configuration;
         }
 
+        //changes in b-3
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
