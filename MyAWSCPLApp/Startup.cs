@@ -14,6 +14,7 @@ namespace MyAWSCPLApp
 {
     public class Startup
     {
+        //changes in b-2
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
